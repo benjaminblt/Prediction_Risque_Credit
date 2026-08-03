@@ -992,7 +992,7 @@ scoring-credit-bancaire-machine-learning/
 │   └── projet_scoring_BNP.ipynb (pas dans le dépôt car trop volumineux)
 │
 ├── donnees/
-│   └── good_data.csv
+│   └── good_data.csv (pas dans le dépôt car trop volumineux)
 │
 ├── documentation/
 │   ├── Projet Master IREF.pdf
