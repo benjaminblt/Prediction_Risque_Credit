@@ -990,19 +990,19 @@ scoring-credit-bancaire-machine-learning/
 ├── README.md
 │
 ├── code/
-│   └── projet_scoring_BNP.ipynb
+│   └── projet_scoring_BNP.ipynb (pas dans le dépôt car trop volumineux)
 │
 ├── donnees/
-│   └── good_data.csv (pas dans le dépôt car trop volumineux)
+│   └── good_data.csv
 │
 ├── documentation/
 │   ├── consignes_projet_scoring_credit.pdf
 │   └── rapport_scoring_credit.pdf
 │
 └── resultats/
-    ├── train_scores_results.csv (pas dans le dépôt car trop volumineux)
-    ├── validation_scores_results.csv (pas dans le dépôt car trop volumineux)
-    └── test_scores_results.csv (pas dans le dépôt car trop volumineux)
+    ├── train_scores_results.csv
+    ├── validation_scores_results.csv
+    └── test_scores_results.csv
 ```
 
 ---
