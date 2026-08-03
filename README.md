@@ -61,7 +61,6 @@ L’objectif est de prévoir si un client sera un bon ou un mauvais payeur, tout
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Auteurs](#auteurs)
-- [Avertissement](#avertissement)
 
 ---
 
@@ -996,8 +995,8 @@ scoring-credit-bancaire-machine-learning/
 │   └── good_data.csv
 │
 ├── documentation/
-│   ├── consignes_projet_scoring_credit.pdf
-│   └── rapport_scoring_credit.pdf
+│   ├── Projet Master IREF.pdf
+│   └── Rapport scoring.pdf
 │
 └── resultats/
     ├── train_scores_results.csv (pas dans le dépôt car trop volumineux)
