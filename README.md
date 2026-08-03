@@ -1000,9 +1000,9 @@ scoring-credit-bancaire-machine-learning/
 │   └── rapport_scoring_credit.pdf
 │
 └── resultats/
-    ├── train_scores_results.csv
-    ├── validation_scores_results.csv
-    └── test_scores_results.csv
+    ├── train_scores_results.csv (pas dans le dépôt car trop volumineux)
+    ├── validation_scores_results.csv (pas dans le dépôt car trop volumineux)
+    └── test_scores_results.csv (pas dans le dépôt car trop volumineux)
 ```
 
 ---
