@@ -1,5 +1,11 @@
 # Scoring de crédit bancaire : grille de score et Machine Learning
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/scoring.jpg"
+       alt="Scoring du risque de crédit - Python et Machine Learning"
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Préparation%20des%20données-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white)
